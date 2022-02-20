@@ -9,6 +9,14 @@
 
 
     <url>
+        <loc>https://changhoi.github.io/posts/books/sql-cookbook/</loc>
+        <lastmod>2022-02-19T15:00:00.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://changhoi.github.io/posts/database/rdb-scaling/</loc>
         <lastmod>2022-02-08T15:00:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -97,7 +105,7 @@
     </url>
 
     <url>
-        <loc>https://changhoi.github.io/posts/backend/mongodb-modeling/</loc>
+        <loc>https://changhoi.github.io/posts/database/mongodb-modeling/</loc>
         <lastmod>2021-05-07T15:00:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -161,7 +169,7 @@
     </url>
 
     <url>
-        <loc>https://changhoi.github.io/posts/backend/dynamodb-single-table-design/</loc>
+        <loc>https://changhoi.github.io/posts/database/dynamodb-single-table-design/</loc>
         <lastmod>2020-10-23T15:00:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
