@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://changhoi.github.io/sitemap.xml
