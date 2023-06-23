@@ -9,6 +9,14 @@
 
 
     <url>
+        <loc>https://changhoi.kim/posts/database/scaling-memcache-at-facebook/</loc>
+        <lastmod>2023-06-22T15:00:00.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://changhoi.kim/posts/network/about-http3/</loc>
         <lastmod>2023-02-03T15:00:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -153,14 +161,6 @@
     </url>
 
     <url>
-        <loc>https://changhoi.kim/posts/books/complete-guide-to-modern-javascript-book-review/</loc>
-        <lastmod>2021-12-18T15:00:00.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://changhoi.kim/posts/go/about-go-range/</loc>
         <lastmod>2021-10-17T15:00:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -185,14 +185,6 @@
     </url>
 
     <url>
-        <loc>https://changhoi.kim/posts/books/microservices-up-and-running-review/</loc>
-        <lastmod>2021-09-21T15:00:00.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://changhoi.kim/posts/os/memory-allocation-and-mapping/</loc>
         <lastmod>2021-09-08T15:00:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -209,24 +201,8 @@
     </url>
 
     <url>
-        <loc>https://changhoi.kim/posts/books/building-ethurium-dapp/</loc>
-        <lastmod>2021-07-23T15:00:00.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://changhoi.kim/posts/etc/red-black-tree/</loc>
         <lastmod>2021-06-30T15:00:00.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://changhoi.kim/posts/books/building-event-driven-microservices/</loc>
-        <lastmod>2021-05-22T15:00:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -243,30 +219,6 @@
     <url>
         <loc>https://changhoi.kim/posts/logs/20210501/</loc>
         <lastmod>2021-04-30T15:00:00.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://changhoi.kim/posts/books/aws-architecture-pattern/</loc>
-        <lastmod>2021-04-17T15:00:00.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://changhoi.kim/posts/books/google-analytics/</loc>
-        <lastmod>2021-03-23T15:00:00.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://changhoi.kim/posts/books/after-effect/</loc>
-        <lastmod>2021-02-20T15:00:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -307,14 +259,6 @@
     <url>
         <loc>https://changhoi.kim/posts/etc/rxjs-operator-01/</loc>
         <lastmod>2020-09-25T15:00:00.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://changhoi.kim/posts/books/rxjs-programming-book-review/</loc>
-        <lastmod>2020-09-20T15:00:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -363,14 +307,6 @@
     <url>
         <loc>https://changhoi.kim/posts/etc/refactoring-practice/</loc>
         <lastmod>2020-06-18T15:00:00.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://changhoi.kim/posts/books/refactoring-book-review/</loc>
-        <lastmod>2020-04-25T15:00:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
