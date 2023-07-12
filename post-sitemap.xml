@@ -9,6 +9,14 @@
 
 
     <url>
+        <loc>https://changhoi.kim/posts/go/go-pkg-architecture/</loc>
+        <lastmod>2023-07-11T15:00:00.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://changhoi.kim/posts/database/scaling-memcache-at-facebook/</loc>
         <lastmod>2023-06-22T15:00:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -529,7 +537,7 @@
     </url>
 
     <url>
-        <loc>https://changhoi.kim/posts/linux/add-user-to-docker-group/</loc>
+        <loc>https://changhoi.kim/posts/linux/detail-of-ls/</loc>
         <lastmod>2019-11-09T15:00:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -537,7 +545,7 @@
     </url>
 
     <url>
-        <loc>https://changhoi.kim/posts/linux/detail-of-ls/</loc>
+        <loc>https://changhoi.kim/posts/linux/add-user-to-docker-group/</loc>
         <lastmod>2019-11-09T15:00:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
